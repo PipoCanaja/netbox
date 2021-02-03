@@ -115,7 +115,7 @@ documentation for tips on setting up your development environment.
 
 * Be sure to open an issue **before** starting work on a pull request, and
 discuss your idea with the NetBox maintainers before beginning work. This will
-help prevent wasting time on something that might we might not be able to
+help prevent wasting time on something that we might not be able to
 implement. When suggesting a new feature, also make sure it won't conflict with
 any work that's already in progress.
 
